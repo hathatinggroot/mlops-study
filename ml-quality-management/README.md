@@ -24,6 +24,10 @@
 * __mypy__ : type check
 
 
+#### practice
+* [github actions practice](https://github.com/hathatinggroot/github-actions-practice)
+* [python unittest pratice](https://github.com/hathatinggroot/python-unittest-practice)
+
 
 ### Continuous Integration        
 1. Github Actions          
