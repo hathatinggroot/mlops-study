@@ -37,7 +37,16 @@
 <br/>
 <hr/>
 
-## Data Validation
+## Data Validation       
+
+
+* ml 프로세스에서 데이터가 잘못 들어와도 서비스 장애가 나지 않고, 눈에 보이지 않는다.
+* 따라서 DataValidation이 필요하다.        
+* 
+
+### TFDV(TensorFlow Data Validation)         
+
+
 
 
 <br/>
