@@ -29,24 +29,27 @@
 * [python unittest pratice](https://github.com/hathatinggroot/python-unittest-practice)
 
 
-### Continuous Integration        
-1. Github Actions          
+### Continuous Integration   
+lint, unittest 등을 통해 지속적인 코드 품질 관리        
 
+1. Github Actions          
+2. Gitlab-ci
 
 
 <br/>
 <hr/>
 
 ## Data Validation       
-
-
 * ml 프로세스에서 데이터가 잘못 들어와도 서비스 장애가 나지 않고, 눈에 보이지 않는다.
+* 하지만 기대한 학습효과가 떨어진다.
 * 따라서 DataValidation이 필요하다.        
-* 
+* TensorFlow Data Validation
+  * basic statistics
+  * anomaly
+  * schema
+  * drift & skew
 
-### TFDV(TensorFlow Data Validation)         
-
-
+### [TFDV(TensorFlow Data Validation)](https://colab.research.google.com/github/tensorflow/tfx/blob/master/docs/tutorials/data_validation/tfdv_basic.ipynb#scrollTo=8Ftd5k6AMkPV)         
 
 
 <br/>
